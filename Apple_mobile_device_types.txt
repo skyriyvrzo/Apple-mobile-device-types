@@ -135,6 +135,16 @@ iPad13,10 : iPad Pro 12.9 inch 5th Gen
 iPad13,11 : iPad Pro 12.9 inch 5th Gen
 iPad13,16 : iPad Air 5th Gen (WiFi)
 iPad13,17 : iPad Air 5th Gen (WiFi+Cellular)
+iPad13,18: iPad 10th Gen
+iPad13,19: iPad 10th Gen
+iPad14,3-A: iPad Pro 11 inch 4th Gen
+iPad14,3-B: iPad Pro 11 inch 4th Gen
+iPad14,4-A: iPad Pro 11 inch 4th Gen
+iPad14,4-B: iPad Pro 11 inch 4th Gen
+iPad14,5-A: iPad Pro 12.9 inch 6th Gen
+iPad14,5-B: iPad Pro 12.9 inch 6th Gen
+iPad14,6-A: iPad Pro 12.9 inch 6th Gen
+iPad14,6-B: iPad Pro 12.9 inch 6th Gen
 
 Watch1,1 : Apple Watch 38mm case
 Watch1,2 : Apple Watch 42mm case
@@ -170,8 +180,8 @@ Watch6,10 : Apple Watch SE 40mm case (GPS)
 Watch6,11 : Apple Watch SE 44mm case (GPS)
 Watch6,12 : Apple Watch SE 40mm case (GPS+Cellular)
 Watch6,13 : Apple Watch SE 44mm case (GPS+Cellular)
-Watch6,14 : Apple Watch Series 8 40mm case (GPS)
-Watch6,15 : Apple Watch Series 8 44mm case (GPS)
-Watch6,16 : Apple Watch Series 8 40mm case (GPS+Cellular)
-Watch6,17 : Apple Watch Series 8 44mm case (GPS+Cellular)
+Watch6,14 : Apple Watch Series 8 41mm case (GPS)
+Watch6,15 : Apple Watch Series 8 45mm case (GPS)
+Watch6,16 : Apple Watch Series 8 41mm case (GPS+Cellular)
+Watch6,17 : Apple Watch Series 8 45mm case (GPS+Cellular)
 Watch6,18 : Apple Watch Ultra
