@@ -135,16 +135,12 @@ iPad13,10 : iPad Pro 12.9 inch 5th Gen
 iPad13,11 : iPad Pro 12.9 inch 5th Gen
 iPad13,16 : iPad Air 5th Gen (WiFi)
 iPad13,17 : iPad Air 5th Gen (WiFi+Cellular)
-iPad13,18: iPad 10th Gen
-iPad13,19: iPad 10th Gen
-iPad14,3-A: iPad Pro 11 inch 4th Gen
-iPad14,3-B: iPad Pro 11 inch 4th Gen
-iPad14,4-A: iPad Pro 11 inch 4th Gen
-iPad14,4-B: iPad Pro 11 inch 4th Gen
-iPad14,5-A: iPad Pro 12.9 inch 6th Gen
-iPad14,5-B: iPad Pro 12.9 inch 6th Gen
-iPad14,6-A: iPad Pro 12.9 inch 6th Gen
-iPad14,6-B: iPad Pro 12.9 inch 6th Gen
+iPad13,18 : iPad 10th Gen
+iPad13,19 : iPad 10th Gen
+iPad14,3 : iPad Pro 11 inch 4th Gen
+iPad14,4 : iPad Pro 11 inch 4th Gen
+iPad14,5 : iPad Pro 12.9 inch 6th Gen
+iPad14,6 : iPad Pro 12.9 inch 6th Gen
 
 Watch1,1 : Apple Watch 38mm case
 Watch1,2 : Apple Watch 42mm case
